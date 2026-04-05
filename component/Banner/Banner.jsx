@@ -9,6 +9,8 @@ const Banner = () => {
         }
     };
 
+    // Hanjala Habib Sadik
+
     return (
         <section 
             style={{ 
