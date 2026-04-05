@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "question": "What is useState and how does it work in React?",
+        "answer": "useState হলো React-এর একটি খুব গুরুত্বপূর্ণ Hook । useState ব্যবহার করে আমরা কোনো ডেটা component-এর মধ্যে রাখি, যেটা আমরা আবার পরে change করতে পারি ।"
+    },
+    {
+        "id": 2,
+        "question": "What is the purpose of useEffect in React?",
+        "answer": "useEffect হলো React-এর গুরুত্বপূর্ণ Hook । যা component-এর ভিতরে side effects হ্যান্ডেল করতে ব্যবহার হয়। useEffect ব্যাবহার করে API থেকে ডেটা আনা যায় ।"
+    },
+    {
+        "id": 3,
+        "question": "What is a custom hook in React and when should you use one?",
+        "answer": "useState, useEffect, বা অন্য কোনো logic বারবার অনেক জায়গায় ব্যবহার না করে একটা custom hook-এ নিয়ে বানিয়ে নিলে code clean ও reusable হয়।"
+    },
+    {
+        "id": 4,
+        "question": "Difference between controlled and uncontrolled components. Which one is better?",
+        "answer": "যেটা form element এর value React state দ্বারা নিয়ন্ত্রণ হয়, সেটা হল Controlled component. আর যেটার value সরাসরি DOM থেকে নেওয়া হয় — React state দ্বারা নিয়ন্ত্রিত হয় না , সেটা Uncontrolled Components। Controlled Component ভালো কারন React এর state দিয়ে পুরো ফর্ম নিয়ন্ত্রণ করা যায়"
+    },
+    {
+        "id": 5,
+        "question": "Tell us something about useFormStatus() in React.",
+        "answer": "useFormStatus() form-এর submit status track করে । মানে, form submit হচ্ছে কিনা, error হয়েছে কিনা, ইত্যাদি জানতে পারা যায় এই হুক দিয়ে ।"
+    }
+]

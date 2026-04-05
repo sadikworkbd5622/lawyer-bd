@@ -1,0 +1,209 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.ibb.co/9DjPMYP/360-F-295967926-T2n-Unmh-Qc00dwwp3-Ksv-JSPHMP2xhekry.jpg",
+        "name": "Adv. Arjun Sen",
+        "speciality": "Criminal Law",
+        "experience": "10",
+        "licenseNumber": "WB-CR-10234",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+        ],
+        "consultationFee": "1500",
+        "isAvailability": true
+    },
+    {
+        "id": "2",
+        "image": "https://i.ibb.co/xqfmkLpJ/istockphoto-1326920136-612x612.jpg",
+        "name": "Adv. Nisha Roy",
+        "speciality": "Family Law",
+        "experience": "7",
+        "licenseNumber": "WB-FM-23892",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+        ],
+        "consultationFee": "1000",
+        "isAvailability": true
+    },
+    {
+        "id": "3",
+        "image": "https://i.ibb.co/7NyZWwD1/11-1024x576.jpg",
+        "name": "Adv. Rajesh Mehra",
+        "speciality": "Corporate Law",
+        "experience": "12",
+        "licenseNumber": "MH-CO-87654",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+        ],
+        "consultationFee": "2000",
+        "isAvailability": true
+    },
+    {
+        "id": "4",
+        "image": "https://i.ibb.co/JW4zjyH9/355901751-10229969247405263-2853564257481549596-n-1.jpg",
+        "name": "Adv. Priya Sharma",
+        "speciality": "Property Law",
+        "experience": "5",
+        "licenseNumber": "DL-PR-19283",
+        "availability": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+        ],
+        "consultationFee": "1200",
+        "isAvailability": true
+    },
+    {
+        "id": "5",
+        "image": "https://i.ibb.co/WWRh6gQr/lawyer-174092276.jpg",
+        "name": "Adv. Tanmay Das",
+        "speciality": "Civil Litigation",
+        "experience": "8",
+        "licenseNumber": "WB-CV-67420",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+        ],
+        "consultationFee": "1300",
+        "isAvailability": true
+    },
+    {
+        "id": "6",
+        "image": "https://i.ibb.co/Z6mscq2s/Bambi-Photo.jpg",
+        "name": "Adv. Anjali Verma",
+        "speciality": "Tax Law",
+        "experience": "6",
+        "licenseNumber": "MH-TX-55213",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+        ],
+        "consultationFee": "1800",
+        "isAvailability": true
+    },
+    {
+        "id": "7",
+        "image": "https://i.ibb.co/JF743B6K/istockphoto-1316934378-612x612.jpg",
+        "name": "Adv. Karan Jha",
+        "speciality": "Labour Law",
+        "experience": "9",
+        "licenseNumber": "BR-LB-99382",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+        ],
+        "consultationFee": "1100",
+        "isAvailability": true
+    },
+    {
+        "id": "8",
+        "image": "https://i.ibb.co/Y40PdLr9/istockphoto-514236016-612x612.jpg",
+        "name": "Adv. Sneha Iyer",
+        "speciality": "Immigration Law",
+        "experience": "4",
+        "licenseNumber": "TN-IM-43902",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+        ],
+        "consultationFee": "1600",
+        "isAvailability": true
+    },
+    {
+        "id": "9",
+        "image": "https://i.ibb.co/Z11TSNKf/3501-lovepik-young-male-lawyer-holding-a-scale-photo-image-wh860.jpg",
+        "name": "Adv. Vikram Sinha",
+        "speciality": "Intellectual Property",
+        "experience": "11",
+        "licenseNumber": "DL-IP-77123",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+        ],
+        "consultationFee": "2200",
+        "isAvailability": true
+    },
+    {
+        "id": "10",
+        "image": "https://i.ibb.co/h1g08tRf/photo-1662104935883-e9dd0619eaba.jpg",
+        "name": "Adv. Meenakshi Bose",
+        "speciality": "Environmental Law",
+        "experience": "6",
+        "licenseNumber": "WB-EN-22884",
+        "availability": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+        ],
+        "consultationFee": "1400",
+        "isAvailability": true
+    },
+    {
+        "id": "11",
+        "image": "https://i.ibb.co/KxT6HnVH/african-american-male-lawyer-in-professional-office-setting-smiling-and-confident-business-attire-le.jpg",
+        "name": "Adv. Rohan Kapoor",
+        "speciality": "Consumer Protection",
+        "experience": "3",
+        "licenseNumber": "PB-CS-30012",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+        ],
+        "consultationFee": "900",
+        "isAvailability": true
+    },
+    {
+        "id": "12",
+        "image": "https://i.ibb.co/TNtG85Q/1502076-Lawyer-Style-Men-Blog-Post-Hero-Image-1200-X630-120522.webp",
+        "name": "Adv. Swastik Mishra",
+        "speciality": "Cyber Law",
+        "experience": "5",
+        "licenseNumber": "UP-CY-88991",
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+        ],
+        "consultationFee": "1700",
+        "isAvailability": true
+    }
+]

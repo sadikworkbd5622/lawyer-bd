@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap");
+@import "tailwindcss";
+@plugin "daisyui";
+
+.mulish {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+}
+
+@layer components {
+  .responsive-box {
+    @apply max-w-[1600px] !w-11/12 mx-auto;
+  }
+  .greenBtn {
+    @apply !border-[#0EA106] !bg-[#0EA106] !text-white lg:!text-[20px] !px-5 lg:!px-7 !font-bold !rounded-[100px] min-h-10 lg:min-h-12 hover:!bg-black hover:!border-[#000];
+  }
+  .redBtn {
+    @apply !border-[#FF0000] !bg-[#fff] !text-[#FF0000] lg:!text-[20px] !px-5 lg:!px-7 !font-bold !rounded-[100px] min-h-10 lg:min-h-12 hover:!bg-[#FF0000] hover:!text-white;
+  }
+  .blueBtn{
+    @apply leading-[36px] border border-gray-300 text-center block mt-4 rounded-[100px] text-blue-800 font-bold max-sm:text-[15px] hover:bg-blue-800 hover:text-white hover:border-blue-800 duration-200;
+  }
+  .h1{
+    @apply text-[26px] md:text-[38px] lg:text-[48px] font-bold leading-[1.3em];
+  }
+  .h2{
+    @apply text-[22px] md:text-[34px] lg:text-[40px] font-extrabold leading-[1.3em];
+  }
+  .h3{
+    @apply text-[20px] md:text-[26px] lg:text-[32px] font-extrabold leading-[1.3em];
+  }
+  .h4{
+    @apply text-[18px] md:text-[22px] lg:text-[24px] font-extrabold leading-[1.3em];
+  }
+  .p{
+    @apply text-[15px] md:text-[16px];
+  }
+}
+

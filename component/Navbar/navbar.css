@@ -1,0 +1,5 @@
+.menu li a.active, .menu li a:hover{
+    color: #0EA106;
+    border-radius: 0 !important;
+    background: none !important;
+}
